@@ -1,1 +1,2 @@
-console.log("555");
+let a = 555;
+console.log(a);
